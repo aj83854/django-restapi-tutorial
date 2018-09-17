@@ -1,1 +1,9 @@
+*.log
+*.pot
+*.pyc
 *Pipfile
+__pycache__/
+django-restapi-tutorial/static/
+local_settings.py
+db.sqlite3
+media
